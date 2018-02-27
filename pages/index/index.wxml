@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view>
+    <canvas canvas-id="charts1"
+        style="width:100%;height:400rpx;"
+    >
+
+    </canvas>
+</view>
